@@ -122,7 +122,7 @@ class Tokenizer(object):
                 cache_file = "jieba.u%s.cache" % md5(
                     abs_path.encode('utf-8', 'replace')).hexdigest()
             cache_file = os.path.join(
-                self.tmp_dir or tempfile.gettempdir(), cache_file)
+                self.tmp_dir or './temp', cache_file)
             # prevent absolute path in self.cache_file
             tmpdir = os.path.dirname(cache_file)
 
