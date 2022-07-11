@@ -2,8 +2,8 @@ jieba-GUI
 =========
 Graphic User interface for Jieba (https://github.com/fxsjy/jieba)
 
-[실행 파일 다운로드](https://drive.google.com/file/d/1l-LhvRT6kS8gIwcyerQYcIAjceUYCIF-/view?usp=sharing)
-jieba_GUI 폴더에 위치 후 클릭하여 실행
+[실행 파일(.exe) 다운로드](https://drive.google.com/file/d/1l-LhvRT6kS8gIwcyerQYcIAjceUYCIF-/view?usp=sharing)
+: jieba_GUI 폴더에 위치 후 클릭하여 실행
 
 
 jieba
