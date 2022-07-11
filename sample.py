@@ -1,6 +1,6 @@
 import jieba
 
-jieba.set_dictionary("dict.txt")
+jieba.set_dictionary("./jieba/dict.txt")
 jieba.initialize()
 
 import jieba.posseg as pseg
