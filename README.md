@@ -4,9 +4,9 @@ Graphic User interface for Jieba Chinese POS tagger (https://github.com/fxsjy/ji
 All rights belong to its owner ([https://github.com/fxsjy/jieba](https://github.com/fxsjy/jieba)) <br>
 For personal, non-profit use only.
 
-[실행 파일(.exe) 다운로드](https://drive.google.com/file/d/1l-LhvRT6kS8gIwcyerQYcIAjceUYCIF-/view?usp=sharing)
-: jieba_GUI 폴더에 위치 후 클릭하여 실행
-
+Windows에서 실행
+================
+[파일 다운로드](https://drive.google.com/file/d/1qzhjXpmZdtMfOhctNp-i-QtYTVFfJe_B/view?usp=sharing) 압축 해제 후, jieba_gui.exe 클릭하여 실행
 
 jieba
 ========
