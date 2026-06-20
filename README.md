@@ -6,7 +6,7 @@ For personal, non-profit use only.
 
 Windows에서 실행
 ================
-[파일 다운로드]() 압축 해제 후, jieba_gui.exe 클릭하여 실행
+[파일 다운로드](https://o365duksung-my.sharepoint.com/:u:/g/personal/2020133_office_duksung_ac_kr/IQDBdTre2Gn8QLP5r0ViykPnARd3hViPhQoVezn0trrwy-k?e=Cgv01b) 압축 해제 후, jieba_gui.exe 클릭하여 실행
 
 jieba
 ========
