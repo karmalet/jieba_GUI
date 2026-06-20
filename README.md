@@ -6,7 +6,7 @@ For personal, non-profit use only.
 
 Windows에서 실행
 ================
-[파일 다운로드](https://drive.google.com/file/d/1qzhjXpmZdtMfOhctNp-i-QtYTVFfJe_B/view?usp=sharing) 압축 해제 후, jieba_gui.exe 클릭하여 실행
+[파일 다운로드]() 압축 해제 후, jieba_gui.exe 클릭하여 실행
 
 jieba
 ========
